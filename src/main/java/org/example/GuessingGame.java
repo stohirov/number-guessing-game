@@ -16,6 +16,9 @@ public class GuessingGame {
                 """);
     }
 
+    /*
+    HUGE REMINDER: IT IS JUST MVP, WORKING MAKING IT BETTER LIKE USER AND SO ON
+     */
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
