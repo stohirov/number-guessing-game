@@ -2,7 +2,7 @@ package org.example;
 
 public class GuessGame {
 
-    private String username;
+    private User user;
     private DifficultyLevel level;
     private long timeInSeconds;
     private int numberOfAttempts;
